@@ -28,7 +28,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kutaay&show_icons=true&theme=default)
 
-> Reemplaza `TU_USUARIO` por tu usuario real de GitHub para que esto se muestre.
 
 #### 📌 Proyectos destacados
 
